@@ -99,16 +99,16 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
-### 📌 [Sing-Box-Ubuntu-Actions-Workflow](https://github.com/20241204/Sing-Box-Ubuntu-Actions-Workflow)
-这是借用 actions 产生的虚拟机网络环境并使用 sing-box + cloudflare tunnel (临时 argo) + vmess 共享网络环境并通过 cloudflared tunnel 加速网络数据从而让我访问国际互联网的临时应急方案。
+### 📌 [ProxyBridge](https://github.com/20241204/ProxyBridge)
+这是借用 actions workflow 产生网络环境并使用 sing-box + cloudflare tunnel (临时 argo) + vmess 共享网络环境并通过 cloudflared tunnel 加速网络数据从而让我访问国际互联网的临时应急方案。
 
-[![](https://img.shields.io/github/stars/20241204/Sing-Box-Ubuntu-Actions-Workflow?style=social)](https://github.com/20241204/Sing-Box-Ubuntu-Actions-Workflow/stargazers)
-[![](https://img.shields.io/github/forks/20241204/Sing-Box-Ubuntu-Actions-Workflow?style=social)](https://github.com/20241204/Sing-Box-Ubuntu-Actions-Workflow/network/members)
-![GitHub license](https://img.shields.io/github/license/20241204/Sing-Box-Ubuntu-Actions-Workflow)
-![GitHub last commit](https://img.shields.io/github/last-commit/20241204/Sing-Box-Ubuntu-Actions-Workflow)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/Sing-Box-Ubuntu-Actions-Workflow)
-![Watchers](https://img.shields.io/github/watchers/20241204/Sing-Box-Ubuntu-Actions-Workflow)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.Sing-Box-Ubuntu-Actions-Workflow) 
+[![](https://img.shields.io/github/stars/20241204/ProxyBridge?style=social)](https://github.com/20241204/ProxyBridge/stargazers)
+[![](https://img.shields.io/github/forks/20241204/ProxyBridge?style=social)](https://github.com/20241204/ProxyBridge/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/ProxyBridge)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/ProxyBridge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/ProxyBridge)
+![Watchers](https://img.shields.io/github/watchers/20241204/ProxyBridge)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.ProxyBridge) 
 
 ---
 
