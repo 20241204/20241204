@@ -112,16 +112,16 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
-### 📌 [mihomo-script-for-system](https://github.com/20241204/mihomo-script-for-system)
+### 📌 [ProxyScriptMihomo](https://github.com/20241204/ProxyScriptMihomo)
 适配各种系统依赖于 Mihomo 的虚拟专网技术通用脚本。
 
-[![](https://img.shields.io/github/stars/20241204/mihomo-script-for-system?style=social)](https://github.com/20241204/mihomo-script-for-system/stargazers)
-[![](https://img.shields.io/github/forks/20241204/mihomo-script-for-system?style=social)](https://github.com/20241204/mihomo-script-for-system/network/members)
-![GitHub license](https://img.shields.io/github/license/20241204/mihomo-script-for-system)
-![GitHub last commit](https://img.shields.io/github/last-commit/20241204/mihomo-script-for-system)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/mihomo-script-for-system)
-![Watchers](https://img.shields.io/github/watchers/20241204/mihomo-script-for-system)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.mihomo-script-for-system) 
+[![](https://img.shields.io/github/stars/20241204/ProxyScriptMihomo?style=social)](https://github.com/20241204/ProxyScriptMihomo/stargazers)
+[![](https://img.shields.io/github/forks/20241204/ProxyScriptMihomo?style=social)](https://github.com/20241204/ProxyScriptMihomo/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/ProxyScriptMihomo)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/ProxyScriptMihomo)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/ProxyScriptMihomo)
+![Watchers](https://img.shields.io/github/watchers/20241204/ProxyScriptMihomo)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.ProxyScriptMihomo) 
 
 ---
 
