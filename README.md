@@ -125,16 +125,16 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
-### 📌 [Proxy-script-for-system](https://github.com/20241204/Proxy-script-for-system)
+### 📌 [ProxyScriptSingbox](https://github.com/20241204/ProxyScriptSingbox)
 适配各种系统依赖于 sing-box 内核的虚拟专网技术通用脚本。
 
-[![](https://img.shields.io/github/stars/20241204/Proxy-script-for-system?style=social)](https://github.com/20241204/Proxy-script-for-system/stargazers)
-[![](https://img.shields.io/github/forks/20241204/Proxy-script-for-system?style=social)](https://github.com/20241204/Proxy-script-for-system/network/members)
-![GitHub license](https://img.shields.io/github/license/20241204/Proxy-script-for-system)
-![GitHub last commit](https://img.shields.io/github/last-commit/20241204/Proxy-script-for-system)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/Proxy-script-for-system)
-![Watchers](https://img.shields.io/github/watchers/20241204/Proxy-script-for-system)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.Proxy-script-for-system) 
+[![](https://img.shields.io/github/stars/20241204/ProxyScriptSingbox?style=social)](https://github.com/20241204/ProxyScriptSingbox/stargazers)
+[![](https://img.shields.io/github/forks/20241204/ProxyScriptSingbox?style=social)](https://github.com/20241204/ProxyScriptSingbox/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/ProxyScriptSingbox)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/ProxyScriptSingbox)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/ProxyScriptSingbox)
+![Watchers](https://img.shields.io/github/watchers/20241204/ProxyScriptSingbox)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.ProxyScriptSingbox) 
 
 ---
 
@@ -151,16 +151,16 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
-### 📌 [docker-amd64-custom-ubuntu-topfreeproxies](https://github.com/20241204/docker-amd64-custom-ubuntu-topfreeproxies)
+### 📌 [docker-arch-sub-topfreeproxies](https://github.com/20241204/docker-arch-sub-topfreeproxies)
 构建特殊的 Ubuntu 镜像运行容器，获取最终配置节点文件，主要用于学习提升技术。
 
-[![](https://img.shields.io/github/stars/20241204/docker-amd64-custom-ubuntu-topfreeproxies?style=social)](https://github.com/20241204/docker-amd64-custom-ubuntu-topfreeproxies/stargazers)
-[![](https://img.shields.io/github/forks/20241204/docker-amd64-custom-ubuntu-topfreeproxies?style=social)](https://github.com/20241204/docker-amd64-custom-ubuntu-topfreeproxies/network/members)
-![GitHub license](https://img.shields.io/github/license/20241204/docker-amd64-custom-ubuntu-topfreeproxies)
-![GitHub last commit](https://img.shields.io/github/last-commit/20241204/docker-amd64-custom-ubuntu-topfreeproxies)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/docker-amd64-custom-ubuntu-topfreeproxies)
-![Watchers](https://img.shields.io/github/watchers/20241204/docker-amd64-custom-ubuntu-topfreeproxies)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.docker-amd64-custom-ubuntu-topfreeproxies) 
+[![](https://img.shields.io/github/stars/20241204/docker-arch-sub-topfreeproxies?style=social)](https://github.com/20241204/docker-arch-sub-topfreeproxies/stargazers)
+[![](https://img.shields.io/github/forks/20241204/docker-arch-sub-topfreeproxies?style=social)](https://github.com/20241204/docker-arch-sub-topfreeproxies/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/docker-arch-sub-topfreeproxies)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/docker-arch-sub-topfreeproxies)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/docker-arch-sub-topfreeproxies)
+![Watchers](https://img.shields.io/github/watchers/20241204/docker-arch-sub-topfreeproxies)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.docker-arch-sub-topfreeproxies) 
 
 ---
 
