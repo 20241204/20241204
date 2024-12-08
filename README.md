@@ -244,7 +244,7 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 ---
 
 ### 📌 [virtual-qemu-raspberry-script](https://github.com/20241204/virtual-qemu-raspberry-script)
-适配树莓派系列的脚本。
+qemu 虚拟化树莓派 linux shell 脚本
 
 [![](https://img.shields.io/github/stars/20241204/virtual-qemu-raspberry-script?style=social)](https://github.com/20241204/virtual-qemu-raspberry-script/stargazers)
 [![](https://img.shields.io/github/forks/20241204/virtual-qemu-raspberry-script?style=social)](https://github.com/20241204/virtual-qemu-raspberry-script/network/members)
