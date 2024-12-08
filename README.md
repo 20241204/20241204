@@ -269,16 +269,16 @@ Python脚本获取美女图片下载。
 
 ---
 
-### 📌 [Boss-Direct-Hiring-Batch-Communication-Script](https://github.com/20241204/Boss-Direct-Hiring-Batch-Communication-Script)
+### 📌 [BossMatchJobHunter](https://github.com/20241204/BossMatchJobHunter)
 Boss直聘批量投递脚本，提高找工作效率。
 
-[![](https://img.shields.io/github/stars/20241204/Boss-Direct-Hiring-Batch-Communication-Script?style=social)](https://github.com/20241204/Boss-Direct-Hiring-Batch-Communication-Script/stargazers)
-[![](https://img.shields.io/github/forks/20241204/Boss-Direct-Hiring-Batch-Communication-Script?style=social)](https://github.com/20241204/Boss-Direct-Hiring-Batch-Communication-Script/network/members)
-![GitHub license](https://img.shields.io/github/license/20241204/Boss-Direct-Hiring-Batch-Communication-Script)
-![GitHub last commit](https://img.shields.io/github/last-commit/20241204/Boss-Direct-Hiring-Batch-Communication-Script)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/Boss-Direct-Hiring-Batch-Communication-Script)
-![Watchers](https://img.shields.io/github/watchers/20241204/Boss-Direct-Hiring-Batch-Communication-Script)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.Boss-Direct-Hiring-Batch-Communication-Script) 
+[![](https://img.shields.io/github/stars/20241204/BossMatchJobHunter?style=social)](https://github.com/20241204/BossMatchJobHunter/stargazers)
+[![](https://img.shields.io/github/forks/20241204/BossMatchJobHunter?style=social)](https://github.com/20241204/BossMatchJobHunter/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/BossMatchJobHunter)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/BossMatchJobHunter)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/BossMatchJobHunter)
+![Watchers](https://img.shields.io/github/watchers/20241204/BossMatchJobHunter)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.BossMatchJobHunter) 
 
 ---
 
