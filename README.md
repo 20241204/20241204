@@ -256,16 +256,16 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
-### 📌 [Beauty-pictures-crawling](https://github.com/20241204/Beauty-pictures-crawling)
+### 📌 [BeautyFetcher](https://github.com/20241204/BeautyFetcher)
 Python脚本获取美女图片下载。
 
-[![](https://img.shields.io/github/stars/20241204/Beauty-pictures-crawling?style=social)](https://github.com/20241204/Beauty-pictures-crawling/stargazers)
-[![](https://img.shields.io/github/forks/20241204/Beauty-pictures-crawling?style=social)](https://github.com/20241204/Beauty-pictures-crawling/network/members)
-![GitHub license](https://img.shields.io/github/license/20241204/Beauty-pictures-crawling)
-![GitHub last commit](https://img.shields.io/github/last-commit/20241204/Beauty-pictures-crawling)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/Beauty-pictures-crawling)
-![Watchers](https://img.shields.io/github/watchers/20241204/Beauty-pictures-crawling)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.Beauty-pictures-crawling) 
+[![](https://img.shields.io/github/stars/20241204/BeautyFetcher?style=social)](https://github.com/20241204/BeautyFetcher/stargazers)
+[![](https://img.shields.io/github/forks/20241204/BeautyFetcher?style=social)](https://github.com/20241204/BeautyFetcher/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/BeautyFetcher)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/BeautyFetcher)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/BeautyFetcher)
+![Watchers](https://img.shields.io/github/watchers/20241204/BeautyFetcher)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.BeautyFetcher) 
 
 ---
 
