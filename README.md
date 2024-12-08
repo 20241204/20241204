@@ -217,8 +217,7 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 ---
 
 ### 📌 [golearn](https://github.com/20241204/golearn)  
-"The journey of learning the Go programming language"  
-"学习 golang 语言之路"  
+学习 golang 语言之路  
 
 [![](https://img.shields.io/github/stars/20241204/golearn?style=social)](https://github.com/20241204/golearn/stargazers)
 [![](https://img.shields.io/github/forks/20241204/golearn?style=social)](https://github.com/20241204/golearn/network/members)
