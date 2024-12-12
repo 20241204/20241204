@@ -164,16 +164,16 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
-### 📌 [docker-amd64-ubuntu-resilio-sync](https://github.com/20241204/docker-amd64-ubuntu-resilio-sync)
+### 📌 [docker-arch-ubuntu-resilio-sync](https://github.com/20241204/docker-arch-ubuntu-resilio-sync)
 构建特殊的 Ubuntu 镜像运行容器，获取最终配置节点文件，主要用于学习提升技术。
 
-[![](https://img.shields.io/github/stars/20241204/docker-amd64-ubuntu-resilio-sync?style=social)](https://github.com/20241204/docker-amd64-ubuntu-resilio-sync/stargazers)
-[![](https://img.shields.io/github/forks/20241204/docker-amd64-ubuntu-resilio-sync?style=social)](https://github.com/20241204/docker-amd64-ubuntu-resilio-sync/network/members)
-![GitHub license](https://img.shields.io/github/license/20241204/docker-amd64-ubuntu-resilio-sync)
-![GitHub last commit](https://img.shields.io/github/last-commit/20241204/docker-amd64-ubuntu-resilio-sync)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/docker-amd64-ubuntu-resilio-sync)
-![Watchers](https://img.shields.io/github/watchers/20241204/docker-amd64-ubuntu-resilio-sync)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.docker-amd64-ubuntu-resilio-sync) 
+[![](https://img.shields.io/github/stars/20241204/docker-arch-ubuntu-resilio-sync?style=social)](https://github.com/20241204/docker-arch-ubuntu-resilio-sync/stargazers)
+[![](https://img.shields.io/github/forks/20241204/docker-arch-ubuntu-resilio-sync?style=social)](https://github.com/20241204/docker-arch-ubuntu-resilio-sync/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/docker-arch-ubuntu-resilio-sync)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/docker-arch-ubuntu-resilio-sync)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/docker-arch-ubuntu-resilio-sync)
+![Watchers](https://img.shields.io/github/watchers/20241204/docker-arch-ubuntu-resilio-sync)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.docker-arch-ubuntu-resilio-sync) 
 
 ---
 
