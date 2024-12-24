@@ -86,6 +86,19 @@ emo
 
 ---
 
+### 📌 [s-h-f-serv00](https://github.com/20241204/s-h-f-serv00)
+sing-box + hysteria2 + freebsd 支持在 serv00 上搭建 3 个 hysteria2 节点
+
+[![](https://img.shields.io/github/stars/20241204/s-h-f-serv00?style=social)](https://github.com/20241204/s-h-f-serv00/stargazers)
+[![](https://img.shields.io/github/forks/20241204/s-h-f-serv00?style=social)](https://github.com/20241204/s-h-f-serv00/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/s-h-f-serv00)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/s-h-f-serv00)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/s-h-f-serv00)
+![Watchers](https://img.shields.io/github/watchers/20241204/s-h-f-serv00)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.s-h-f-serv00) 
+
+---
+
 ### 📌 [s-c-f-serv00](https://github.com/20241204/s-c-f-serv00)
 sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + vmess(cloudflare) + trojan(cloudflare) 3 个节点
 
