@@ -319,3 +319,16 @@ Boss直聘批量投递脚本，提高找工作效率。
 ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.sing-box-freebsd) 
 
 ---
+
+### 📌 [frankiejun-tech4life7777-serv00-play](https://github.com/20241204/frankiejun-tech4life7777-serv00-play)
+frankiejun 和 tech4life7777 serv00 上的一些应用，包括批量保号、TG消息推送。
+
+[![](https://img.shields.io/github/stars/20241204/frankiejun-tech4life7777-serv00-play?style=social)](https://github.com/20241204/frankiejun-tech4life7777-serv00-play/stargazers)
+[![](https://img.shields.io/github/forks/20241204/frankiejun-tech4life7777-serv00-play?style=social)](https://github.com/20241204/frankiejun-tech4life7777-serv00-play/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/frankiejun-tech4life7777-serv00-play)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/frankiejun-tech4life7777-serv00-play)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/frankiejun-tech4life7777-serv00-play)
+![Watchers](https://img.shields.io/github/watchers/20241204/frankiejun-tech4life7777-serv00-play)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.frankiejun-tech4life7777-serv00-play) 
+
+---
