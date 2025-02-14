@@ -306,3 +306,16 @@ Boss直聘批量投递脚本，提高找工作效率。
 ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.DivinationMaster) 
 
 ---
+
+### 📌 [sing-box-freebsd](https://github.com/20241204/sing-box-freebsd)
+用于测试自行变异sing-box 的 freebsd 版本。
+
+[![](https://img.shields.io/github/stars/20241204/sing-box-freebsd?style=social)](https://github.com/20241204/sing-box-freebsd/stargazers)
+[![](https://img.shields.io/github/forks/20241204/sing-box-freebsd?style=social)](https://github.com/20241204/sing-box-freebsd/network/members)
+![GitHub license](https://img.shields.io/github/license/20241204/sing-box-freebsd)
+![GitHub last commit](https://img.shields.io/github/last-commit/20241204/sing-box-freebsd)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/20241204/sing-box-freebsd)
+![Watchers](https://img.shields.io/github/watchers/20241204/sing-box-freebsd)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=20241204.sing-box-freebsd) 
+
+---
