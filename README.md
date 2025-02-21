@@ -87,7 +87,7 @@ emo
 ---
 
 ### 📌 [s-h-f-serv00](https://github.com/20241204/s-h-f-serv00)
-sing-box + hysteria2 + freebsd 支持在 serv00 上搭建 3 个 hysteria2 节点
+sing-box + hysteria2 + freebsd 支持在 serv00 上搭建 9 个 hysteria2 节点
 
 [![](https://img.shields.io/github/stars/20241204/s-h-f-serv00?style=social)](https://github.com/20241204/s-h-f-serv00/stargazers)
 [![](https://img.shields.io/github/forks/20241204/s-h-f-serv00?style=social)](https://github.com/20241204/s-h-f-serv00/network/members)
